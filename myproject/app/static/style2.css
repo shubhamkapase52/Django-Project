@@ -1,0 +1,29 @@
+body{
+    background-color : blue;
+    }
+h1{
+  background-color:red;
+  width: 60%;
+  outline:auto;
+  test-align:center;
+  margin:100px auto;
+  border-radius:20px
+}
+h3{
+background-color: yellow;
+  width: 20%;
+  outline:auto;
+  test-align:top;
+  margin:100px auto;
+  border-radius:20px
+}
+form{
+background-color:pink;
+  width: 350px;
+  height: 150px;
+  outline:auto;
+
+  margin:100px auto;
+  border-radius:30px
+
+}
